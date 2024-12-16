@@ -23,17 +23,13 @@ This is a backend implementation of an Airbnb clone using Node.js, Express, and 
 
 ## Installation
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Sujanbutani/Airbnb-clone-p-2.git
-
-2. Install dependencies:
+1. Install dependencies:
 
     ```bash
     npm install
 
-3. .env file
+2. .env file
 
      ```
     PORT=5000
@@ -41,7 +37,7 @@ This is a backend implementation of an Airbnb clone using Node.js, Express, and 
     JWT_SECRET=your_jwt_secret
     ```
 
-4. Start the development server:
+3. Start the development server:
 
    ```bash
    npm start
