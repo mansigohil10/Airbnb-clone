@@ -21,27 +21,6 @@ This is a backend implementation of an Airbnb clone using Node.js, Express, and 
 - dotenv
 - Cors
 
-## Installation
-
-
-1. Install dependencies:
-
-    ```bash
-    npm install
-
-2. .env file
-
-     ```
-    PORT=5000
-    MONGODB_URI=your_mongo_db_connection_string
-    JWT_SECRET=your_jwt_secret
-    ```
-
-3. Start the development server:
-
-   ```bash
-   npm start
-   ```
 
 ## API Endpoints
 
